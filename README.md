@@ -15,3 +15,10 @@ These are the programming languages ​​I'm learning:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/> 
 </div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/acc_amapray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acc_amapray" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/amaprayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amaprayy" height="30" width="40" /></a>
+</p>
