@@ -1,5 +1,20 @@
 ## Hello everyone!!
  my name is Nícolas, better known as Amapray, This is just for a school project.
+
+ ## About me 
+ - 📄 I’m currently working on: **I studying high school**
+
+- 💬About me: **i'm 17 years-old**
+
+- 📫 How to reach me: **Fernandoalonsodaaston@gmail.com**
+
+- ⚡ Fun fact: **I hate Java**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/acc_amapray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acc_amapray" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@amaprayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@amaprayy" height="30" width="40" /></a>
+</p>
  
  ##  how am I currently
 
@@ -17,8 +32,4 @@ These are the programming languages ​​I'm learning:
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/acc_amapray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acc_amapray" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amaprayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amaprayy" height="30" width="40" /></a>
-</p>
+
