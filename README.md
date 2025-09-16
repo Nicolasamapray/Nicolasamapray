@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/acc_amapray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acc_amapray" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@amaprayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@amaprayy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Amaprayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@amaprayy" height="30" width="40" /></a>
 </p>
  
  ##  how am I currently
